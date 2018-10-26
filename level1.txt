@@ -1,0 +1,262 @@
+wall: 0 0
+wall: 0 1
+wall: 0 2
+wall: 0 3
+wall: 0 4
+wall: 0 5
+wall: 0 6
+wall: 0 7
+wall: 0 8
+wall: 0 9
+wall: 0 10
+wall: 0 11
+wall: 0 12
+wall: 0 13
+wall: 0 14
+wall: 1 0
+wall: 1 8
+wall: 2 0
+wall: 2 1
+wall: 2 2
+wall: 2 3
+wall: 2 5
+wall: 2 6
+wall: 2 7
+wall: 2 8
+wall: 2 10
+wall: 2 11
+wall: 2 12
+wall: 2 13
+wall: 2 14
+wall: 3 0
+wall: 3 2
+wall: 3 10
+wall: 3 14
+wall: 4 0
+wall: 4 6
+wall: 4 7
+wall: 4 8
+wall: 4 12
+wall: 4 14
+wall: 5 0
+wall: 5 1
+wall: 5 2
+wall: 5 4
+wall: 5 5
+wall: 5 6
+wall: 5 8
+wall: 5 10
+wall: 5 11
+wall: 5 12
+wall: 5 14
+wall: 6 0
+wall: 6 2
+wall: 6 8
+wall: 6 11
+wall: 6 14
+wall: 7 0
+wall: 7 2
+wall: 7 3
+wall: 7 5
+wall: 7 8
+wall: 7 11
+wall: 8 0
+wall: 8 5
+wall: 8 11
+wall: 8 12
+wall: 8 14
+wall: 9 0
+wall: 9 2
+wall: 9 4
+wall: 9 5
+wall: 9 7
+wall: 9 8
+wall: 9 9
+wall: 9 12
+wall: 9 14
+wall: 10 0
+wall: 10 4
+wall: 10 7
+wall: 10 9
+wall: 10 14
+wall: 11 0
+wall: 11 2
+wall: 11 3
+wall: 11 4
+wall: 11 7
+wall: 11 9
+wall: 11 10
+wall: 11 11
+wall: 11 12
+wall: 11 14
+wall: 12 0
+wall: 12 2
+wall: 12 6
+wall: 12 7
+wall: 12 14
+wall: 13 0
+wall: 13 11
+wall: 13 14
+wall: 14 0
+wall: 14 1
+wall: 14 2
+wall: 14 3
+
+wall: 14 5
+wall: 14 6
+wall: 14 7
+wall: 14 8
+wall: 14 9
+wall: 14 10
+wall: 14 11
+
+wall: 14 14
+
+wall: 19 0
+
+wall: 19 1
+
+wall: 19 2
+
+wall: 19 3
+
+wall: 19 4
+
+wall: 19 5
+
+wall: 19 6
+
+wall: 19 7
+
+wall: 19 8
+
+wall: 19 9
+
+wall: 19 10
+
+wall: 19 11
+
+wall: 19 12
+
+wall: 19 13
+
+wall: 19 15
+
+wall: 19 16
+
+wall: 19 17
+
+wall: 19 18
+
+wall: 19 19
+
+wall: 0 19
+
+wall: 1 19
+
+wall: 2 19
+
+wall: 3 19
+
+wall: 4 19
+
+wall: 5 19
+wall: 6 19
+
+wall: 7 19
+
+wall: 8 19
+
+wall: 9 19
+
+wall: 10 19
+
+wall: 11 19
+
+wall: 12 19
+
+wall: 13 19
+
+wall: 14 19
+
+wall: 15 19
+
+wall: 16 19
+
+wall: 17 19
+
+wall: 18 19
+
+wall: 19 19
+
+wall: 0 15
+
+wall: 0 16
+
+wall: 0 17
+
+wall: 0 18
+
+wall: 0 19
+
+
+wall: 1 17
+
+wall: 2 17
+wall: 3 17
+wall: 4 17
+wall: 4 16
+
+wall: 7 16
+wall: 8 16
+wall: 9 16
+wall: 10 16
+wall: 10 17
+
+wall: 14 18
+wall: 14 17
+wall: 14 16
+wall: 15 16
+wall: 15 17
+wall: 15 18
+
+wall: 17 17
+wall: 17 16
+wall: 17 15
+wall: 17 14
+wall: 17 13
+wall: 17 12
+wall: 17 11
+
+wall: 17 10
+wall: 16 10
+
+wall: 16 7
+wall: 17 7
+wall: 18 7
+
+wall: 16 6
+Wall: 16 5 
+wall: 16 4
+wall: 16 3
+wall: 16 2
+
+wall: 18 0
+wall: 17 0
+wall: 16 0
+wall: 15 0
+
+Enemy: 1 7
+Enemy: 11 5
+Enemy: 18 1
+Enemy: 1 16
+Enemy: 1 18
+Enemy: 12 17
+Enemy: 18 18
+Enemy: 10 10
+
+chest: 19 14
+
+arrows: 1 18
+
+player: 4 1
